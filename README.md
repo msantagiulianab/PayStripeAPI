@@ -2,6 +2,17 @@
 
 PayStripeAPI is an `Android app` that `displays a possible integration of the Stripe API to process credit card Pays`.
 
+<p float="left">
+<img src="https://user-images.githubusercontent.com/21276996/90060479-b244f180-dcdc-11ea-9bc3-fdeca4014127.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/21276996/90060475-b1ac5b00-dcdc-11ea-8629-b6a3554b6e14.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/21276996/90060477-b244f180-dcdc-11ea-8986-1dfe659102de.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/21276996/90060474-b113c480-dcdc-11ea-83dc-cc2ab2c4e712.jpg" width="300" />
+</p>
+
+
+
+
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
