@@ -1,6 +1,6 @@
 # Pay Stripe API
 
-PayStripeAPI is an `Android app` that `displays a possible integration of the Stripe API to process credit card Pays`.
+PayStripeAPI is an `Android/iOS app` that `displays a possible integration of the Stripe API to process credit card Pays`.
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/21276996/90060479-b244f180-dcdc-11ea-9bc3-fdeca4014127.jpg" width="300" />
